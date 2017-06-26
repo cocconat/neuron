@@ -1,5 +1,4 @@
-Lesson1
-=======
+# Lesson1: Introduction
 
 ### New methods in Neurobiology
 The mechanical properties of the system are relevant, they are present in
@@ -15,7 +14,7 @@ hook law.
 
 The revolution of Mechanobiology is due to the hard task of measure this forces. It depends on technological ability.
 
-Vincenzo Torre opinion: Discoveries in biology depends from technology breaktrheougths
+Vincenzo Torre opinion: Discoveries in biology depends from technology breaktrheougths, theories are useless.
 
 #### Imaging
 Imaging is the superposition of many quantities and result as hard as doing other measures.
@@ -48,7 +47,7 @@ The base idea is to construct optical traps wich exert a linear force over the d
 *movies*
 Force in the molecules are much stronger than forces we can see. This experiments prove that mechanical stress is much more relvant in neurobiology than we thought.
 
-####Atomic Force Microscopy
+#### Atomic Force Microscopy
 ![](./images/Afm.png)
 
 This instrument is really versatile and can be used for imaging *--> next lesson is about!* It can scale to 15 nm
