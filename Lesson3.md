@@ -1,4 +1,4 @@
-#Lesson 3: Atomic Force Microscopy.
+# Lesson 3: Atomic Force Microscopy.
 
 ### A short story:
 AFM rise from the extension of Scanning Tunnel Microscopy to non conducting material.
@@ -31,7 +31,7 @@ A feedback mechanism is used through piezoelectric materials which elevate the t
 
 The typical representation is a 2D colormap. The error image is usually associated and give the perception of 3D since the direction of the tip and the invetigation gives a nice image, but the afm image has more information.  
 
-###Dynamic mode afm
+### Dynamic mode afm
 The cantiliver will oscillate on resonance frequency:
 - hitting the cantiliver at right frequency
 - attracting magnetically the cantiliver
@@ -53,3 +53,8 @@ $$
 \phi = \tan^{-1}(\frac{\omega\omega_0}/{\omega^2_0 -\omega^2})
 $$
 due to high derivative of phase changing near the resonance frequency the sensitivity is much higher than other methods in slowly changing surfaces
+
+### Spatial resolution and other cons
+1. the image is always the convolution of the tip shape and the sample shape.
+2. the tip can be damaged during the experiments
+3. Post processing of the image is required and is a pain in the ass.
