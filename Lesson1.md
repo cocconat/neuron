@@ -4,20 +4,20 @@ Lesson1
 =======
 
 ### New methods in Neurobiology
-The mechanical properties of the system are relevant, they are present in 
+The mechanical properties of the system are relevant, they are present in
 * growth cone
 * cell differentiation
 * etcc
 
-Some new applying instruments are 
+Some new applying instruments are
 1. Optical tweezers
-2. Atomic force microscopy 
+2. Atomic force microscopy
 The physical principle is the same of a spring, there is a linear dependence between the deformation of the spring and the force:
 hook law.
 
 The revolution of Mechanobiology is due to the hard task of measure this forces. It depends on technological ability.
 
-Vincenzo Torre opinion: Discoveries in biology depends from technology breaktrheougths 
+Vincenzo Torre opinion: Discoveries in biology depends from technology breaktrheougths
 
 #### Imaging
 Imaging is the superposition of many quantities and result as hard as doing other measures.
@@ -34,7 +34,7 @@ In imaging the features are **temporal** and **spatial** resolution, the images 
 Also dyes can be used and give better resolution, the cost is a harder experimental set, and require to acquire more than 10^3 frame pers sec.
 
 *movies on imaging, to insert from Vincenzo Torre slides,
-1. Ca+ bursting in mice brain, the image is token from a slice of brain 100um in Lvls 1-4. 
+1. Ca+ bursting in mice brain, the image is token from a slice of brain 100um in Lvls 1-4.
 2. Ca+ higly localized signal with few neurons and glia cells
 3. Fluorescent dyes:  neurite outgrowth and differentiation
 4. Fluorescient dyes: Actin Wave migration*
@@ -45,16 +45,12 @@ It can measure the exert by filopodia and lamellopodium on external environment.
 resolution in msec and **picoNewton**:
 - 1 pN in filopodium
 - 10-50 pn lamellopodium
-*We will have classes on Optical tweezers.* 
+*We will have classes on Optical tweezers.*
 The base idea is to construct optical traps wich exert a linear force over the displacement of the tweezer. We can measure even the effect of a controlled force on the biologic material.
 *movies*
 Force in the molecules are much stronger than forces we can see. This experiments prove that mechanical stress is much more relvant in neurobiology than we thought.
 
 ####Atomic Force Microscopy
-![](./images/Afm.png) 
-This instrument is really versatile and can be used for imaging *--> next lesson is about!* It can scale to 15 nm 
- 
+![](./images/Afm.png)
 
-
-
-
+This instrument is really versatile and can be used for imaging *--> next lesson is about!* It can scale to 15 nm
